@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.techapp.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_favorites"
+        android:name="com.example.techapp.ui.favorites.FavoritesFragment"
+        android:label="Favorites"
+        tools:layout="@layout/fragment_favorites" />
+
+    <fragment
+        android:id="@+id/navigation_account"
+        android:name="com.example.techapp.ui.account.AccountFragment"
+        android:label="@string/menu_account"
+        tools:layout="@layout/fragment_account" >
+        <action
+            android:id="@+id/action_navigation_account_to_navigation_editeprofile"
+            app:destination="@id/navigation_editeprofile"
+            app:enterAnim="@anim/right_slide_in"
+            app:exitAnim="@anim/left_slide_out" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_editeprofile"
+        android:name="com.example.techapp.ui.account.EditProfileFragment"
+        android:label="@string/edit_profile"
+        tools:layout="@layout/fragment_edit_profile" />
+
+    <fragment
+        android:id="@+id/navigation_basket"
+        android:name="com.example.techapp.ui.basket.BasketFragment"
+        android:label="Basket"
+        tools:layout="@layout/fragment_basket" />
+
+
+
+
+
+</navigation>

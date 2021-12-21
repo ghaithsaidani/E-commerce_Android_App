@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/addimage.xml" value="0.13277027027027027" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/card.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_acount.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_add.xml" value="0.13277027027027027" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_add_photo.xml" value="0.13277027027027027" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_apple.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_back.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_bag.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_basket.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_buy.xml" value="0.3609375" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_buy_checked.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_edit.xml" value="0.23412162162162162" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_favorite.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_heart_checked.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_home.xml" value="0.3609375" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_home_checked.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_mail.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_profile.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_user.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_username.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/ic_username_checked.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/icon_add_favorite.xml" value="0.3609375" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/icon_basket.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/icon_favorite.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/icon_home.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/icon_user.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/imagebuttons.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/login_background.xml" value="0.23412162162162162" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/recycler_item.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/rounded_button.xml" value="0.3609375" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/drawable/searchedittext.xml" value="0.2046875" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/activity_addproduct.xml" value="0.22" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.33" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/activity_prod_info.xml" value="0.1" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/activity_update_produit.xml" value="0.22364864864864864" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/basket_recycleview_row.xml" value="0.25" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/favorites_recycleview_row.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_account.xml" value="0.18" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_basket.xml" value="0.2" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_categories.xml" value="0.12263513513513513" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_drones.xml" value="0.33" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_edit_profile.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_favorites.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_home.xml" value="0.14" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_laptop.xml" value="0.1" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_phone.xml" value="0.25" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_prod_info.xml" value="0.22" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/fragment_wearable.xml" value="0.33" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/list_item.xml" value="0.13378378378378378" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/recycleview_row.xml" value="0.22" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/layout/row_item.xml" value="0.18" />
+        <entry key="..\:/Users/ghait/Desktop/COURS GLSI3/Dev Mobiles/TechApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

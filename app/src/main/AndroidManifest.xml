@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.techapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <activity
+            android:name=".Activity_Update_Produit"
+            android:exported="false" />
+        <activity
+            android:name=".AddproductActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.App">
+
+        </activity>
+        <activity
+            android:name=".forgot_password.Code_Verif"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".forgot_password.Forgot_pass_number"
+            android:exported="false" />
+        <activity
+            android:name=".forgot_password.Forgot_pass_email"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".GetStarted"
+            android:exported="true"
+            android:theme="@style/Theme.Get_Started">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".Activity_Prod_Info"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".SignInActivity"
+            android:exported="true">
+
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

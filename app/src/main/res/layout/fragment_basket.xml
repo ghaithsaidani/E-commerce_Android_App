@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".ui.basket.BasketFragment"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_marginTop="40dp"
+            android:id="@+id/basket_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="600dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/total"
+                android:fontFamily="@font/raleway"
+                android:textSize="20sp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="40dp"
+                />
+
+            <TextView
+                android:id="@+id/totalprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/raleway_bold"
+                android:layout_marginTop="40dp"
+                android:layout_marginStart="250dp"
+                android:textColor="#5956E9"
+                android:textSize="18sp"
+
+                />
+
+        </LinearLayout>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/checkout"
+            android:layout_width="350dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/checkout"
+            android:textAllCaps="false"
+            android:textSize="17sp"
+            app:cornerRadius="10dp"
+            android:backgroundTint="@color/primarycolor"
+
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>
